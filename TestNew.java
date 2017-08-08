@@ -11,7 +11,8 @@ class Animal{
 	}
 }
 
-//¼Ì³ÐÀà  ÔÚ×ÓÀàÖÐ¶¨ÒåÒ»¸öÓë¸¸ÀàÍ¬Ãû£¬·µ»ØÀàÐÍ£¬²ÎÊýÀàÐÍ¾ùÏàÍ¬µÄÒ»¸ö·½·¨£¬³ÆÎª·½·¨µÄ¸²¸Ç¡£·½·¨µÄ¸²¸Ç·¢ÉúÔÚ×ÓÀàÓë¸¸ÀàÖ®¼ä¡£ÁíÍâ£¬¿ÉÓÃsuperÌá¹©¶Ô¸¸ÀàµÄ·ÃÎÊ.
+//ç»§æ‰¿ç±»  åœ¨å­ç±»ä¸­å®šä¹‰ä¸€ä¸ªä¸Žçˆ¶ç±»åŒåï¼Œè¿”å›žç±»åž‹ï¼Œå‚æ•°ç±»åž‹å‡ç›¸åŒçš„ä¸€ä¸ªæ–¹æ³•ï¼Œç§°ä¸ºæ–¹æ³•çš„è¦†ç›–ã€‚æ–¹æ³•çš„è¦†ç›–å‘ç”Ÿåœ¨å­ç±»ä¸Žçˆ¶ç±»ä¹‹é—´ã€‚
+// å¦å¤–ï¼Œå¯ç”¨superæä¾›å¯¹çˆ¶ç±»çš„è®¿é—®.
 class Fish extends Animal{   
 	void breathe(){
 		System.out.println("fish breathe");
